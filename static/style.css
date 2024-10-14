@@ -1,0 +1,45 @@
+body {
+    background-color: #f8f9fa;
+}
+h1 {
+    ext-align: center;
+    margin-top: 20px;
+    color: #333;
+}
+.upload-btn {
+    display: block;
+    width: 100%;
+    argin-top: 15px;
+    font-size: 1.2em;
+}
+.navbar {
+    padding: 15px 10px;
+}
+.container {
+    margin-top: 30px;
+}
+footer {
+    text-align: center;
+    padding: 20px 0;
+    background-color: #343a40;
+    color: white;
+    margin-top: 50px;
+}
+.img-fluid {
+    border: 2px solid #ddd;
+    padding: 5px;
+    border-radius: 10px;
+}
+.card {
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    border: none;
+    border-radius: 10px;
+}
+.card-body {
+    text-align: center;
+}
+.btn-primary:hover {
+     background-color: #0056b3;
+     box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+
